@@ -1,33 +1,34 @@
-# Greeting Card
+# Project X: Project Name
 
-## Project Overview
-In this project you will apply JavaScript to the DOM to create a greeting card on an HTML page.  
+* Author: Lucas Pape
+* Class: AP computer science principles
+* Semester: Fall 2022
 
-## Objectives
+## Overview
 
-- [ ] Create HTML elements
-- [ ] Use JavaScript to manipulate HTML elements
-- [ ] Use variables to manage data
+The code uses javascript and html to create a holiday card
 
-## Specifications
+## Compiling and Using
 
-Create a Greeting Card on an HTML page.  Your Greeting Card should include at least 10 different HTML elements.  You must use JavaScript (only) to manipulate your elements in such a way that they come together to clearly resemble a picture.   Your Greeting Card should include a variety of colors (at least 5), text, and music. 
+Seeing as it is live, anyone can access it using this link 
+ https://timberlinecs.github.io/project-1-greeting-card-lucas-pape/
 
-An example of a Greeting Card that meets all the requirements is provided here ([GreetingCard.jpg](GreetingCard.jpg))
+## Discussion
 
-## Your Tasks
+  While making this code, I encountered a problem where the index.html file wasn't
+  opening on my browser, and I had to copy path in order to access it. After dealing with that though, everything else was pretty simple. I looked up interesting holidays, I made a card, and that was all. There weren't any other errors or challenges, and it was pretty easy. 
 
-- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements. 
-- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page
-- [ ] Include music with your GreetingCard.  See the resources below for how to embed audio, 
+## Testing
 
-	* [https://www.w3schools.com/html/html5_audio.asp](https://www.w3schools.com/html/html5_audio.asp)
-	* [https://youtu.be/1Bl2WVQGfiE](https://youtu.be/1Bl2WVQGfiE)
+I made sure that everything worked, and it all looked good.
 
-- [ ] Document your code thoroughly as you go with comments
-- [ ] Complete the required README using specified guidelines
+## Extra Credit
 
-## Grade your project before you submit
+None
 
-- [ ] Before you submit your project, grade your project against the criteria below. 
-	[Rubric.md](Rubric.md)
+## Sources used
+
+None
+
+----------
+This README template is using Markdown. To preview your README output, you can copy your file contents to a Markdown editor/previewer such as [https://stackedit.io/editor](https://stackedit.io/editor).
